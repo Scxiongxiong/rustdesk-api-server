@@ -12,12 +12,12 @@ MYSQL_PASSWORD = "password"
 # 期待pr
 
 # 允许跨域的域名 如果需要可以设置
-CORS_ORIGINS = "http://127.0.0.1:8080,http://127.0.0.1"
+CORS_ORIGINS = "http://xlsft.scxlyy.top:8080,http://xlsft.scxlyy.top"
 
 # 新建用户和重置密码时候的授权码
 AUTH_KEY = "123456"
 
 # 运行配置
-IP = "0.0.0.0"
+IP = "192.5.0.110"
 PORT = 21114
 DEBUG = False
