@@ -15,7 +15,7 @@ MYSQL_PASSWORD = "password"
 CORS_ORIGINS = "http://xlsft.scxlyy.top:8080,http://xlsft.scxlyy.top"
 
 # 新建用户和重置密码时候的授权码
-AUTH_KEY = "123456"
+AUTH_KEY = "XLP@ssw0rd@110"
 
 # 运行配置
 IP = "192.5.0.110"
